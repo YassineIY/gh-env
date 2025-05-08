@@ -12,7 +12,7 @@ jobs:
     env: 
       MONGODB_CLUSTER_ADDRESS: cluster0.fgdtzin.mongodb.net
       MONGODB_USERNAME: yassineibnyaich
-      MONGODB_PASSWORD: zrmLMgzQaI21GXRC
+      MONGODB_PASSWORD: kxrURWMNVQ8HNEGd
       PORT: 8080
 
     environment: testing
